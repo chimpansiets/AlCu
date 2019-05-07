@@ -8,7 +8,8 @@ The player who removes the last match loses.
 ## Getting Started
 
 Run make, and my makefile will compile a binary called "alum1".
-run this binary, and you can now specify the field.
+run this binary, and you can now specify the field by giving
+integers to specify the amount of matches on a row.
 
 e.g.
 ```
